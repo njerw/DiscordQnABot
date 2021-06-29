@@ -1,0 +1,23 @@
+Mekanisme Pelatihan: https://komin.fo/mekanisme-pro-pyt2
+Daftar Pembagian Kelas Peserta: https://komin.fo/ProA-PYT
+
+Deadline presentasi 2 hari lagi loh.
+Untuk jadwal kelas silakan tunggu pengumuman berikutnya.
+Absensi dapat dilakukan melalui link yang dishare oleh panitia.
+Jika, telat absen,Anda dapat absen di keesokan harinya.
+Untuk reimburse sertifikasi, silakan langsung menghubungi penyelanggara DTS ProA 2021.
+Untuk keamanan data, pihak Cisco Networking Academy mendapatkan data pribadi berupa nama dan email peserta yang hanya digunakan untuk keperluan komunikasi.
+Harga sertifikasi dapat dilihat di www.vue.com/vouchers/pricelist/cisco.asp#prices.
+Jika token activation expired, silakan klik tombol resend activation email pada halaman netacad.com.
+Kendala tidak absen saat live webex dimungkinkan traffic sedang padat, harap dimaklumi eror sistem, absensi dapat dilakukan setelah live session.
+Syarat untuk bisa mengikuti final exam adalah nilai yang diperoleh untuk SETIAP exam minimal 75%.
+Live session libur hari minggu dan hari libur nasional, selebihnya akan diumumkan kapan saja libur.
+Jika muncul 500 internal server error, silakan mengganti Internet Service Provider (ISP).
+Untuk kendala akses netacad, pastikan email yang digunakan adalah email yg didaftarkan saat registrasi, selebihnya hubungi instruktur.
+Jika exam sebelum instruksi, selama tidak mengerjakan Final Exam di luar jadwal yang ditentukan, Anda dapat tetap mengikuti pelatihan.
+Materi Netacad dapat diakses kapanpun (unlimited), bahkan setelah periode pelatihan selesai.
+Jika salah server, silakan leave terlebih dahulu server tersebut, lalu memilih kembali server yang benar.
+Diskusi diperbolehkan selama tidak ada pertukaran jawaban.
+Bila merasa ada pertanyaan, silakan menuju FAQ yang tersedia di gdrive Materi. Bila masih terdapat pertanyaan setelahnya sialakn langsung menghubungi instruktur di masing-masing kelas.
+Untuk meninggalkan server (leave server) silakan klik kiri ikon nama server  (yang terletak di sidebar pojok kiri) dan pilih opsi Leave Server.
+Lagi bosen? ketik .tebak lalu tulis pertanyaanmu untuk bot langsung di belakangnya. Contoh: .tebak Bot am I destined to be the next president.
